@@ -1,0 +1,6 @@
+print("Ixtiyoriy 10 lik sanoq sistemasidan 2 lik, 8 lik va 16 sanoq sistemasiga oʻtkazib berubchi dastur \nmuallif Oʻ.R.Odiljonov")
+sanoq=int(input("10 lik son kirting: "))
+print("2 lik sanoq sistemasida quyidagi songa teng: ", bin(sanoq))
+print("8 lik sanoq sistemasida quyidagi songa teng: ", oct(sanoq))
+print("16 lik sanoq sistemasida quyidagi songa teng: ", hex(sanoq))
+input( )
